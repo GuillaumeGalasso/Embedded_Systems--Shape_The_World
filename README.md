@@ -1,4 +1,4 @@
-# EMBEDDED_SYSTEMS---SHAPE_THE_WORLD
+# EMBEDDED_SYSTEMS - SHAPE_THE_WORLD
 A two-module embedded systems MOOC from UTAustinX
 
 This 16-week class is split into two 8-week classes : 
