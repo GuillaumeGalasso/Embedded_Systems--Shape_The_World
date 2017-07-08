@@ -3,10 +3,10 @@ A two-module embedded systems MOOC on edX from the University of Texas at Austin
 Date: July - September 2017
 
 This 16-week class is split into two 8-week classes : 
-- **UT.6.10x Embedded Systems - Shape The World: [Microcontroller Input/Output]()** includes Modules 1 to 10. \
+- **UT.6.10x Embedded Systems - Shape The World: [Microcontroller Input/Output](https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-10x)** includes Modules 1 to 10. \
   [Certificate]() obtained with a grade of % (*not shown on the certificate but you can find a view [here]()*) \
   [Certifcate Verification]()
-- **UT.6.20x Embedded Systems - Shape The World: [Multi-Threaded Interfacing]()** includes Modules 11 to 16. \
+- **UT.6.20x Embedded Systems - Shape The World: [Multi-Threaded Interfacing](https://www.edx.org/course/embedded-systems-shape-world-multi-utaustinx-ut-6-20x)** includes Modules 11 to 16. \
   [Certificate]() obtained with a grade of % (*not shown on the certificate but you can find a view [here]()*) \
   [Certifcate Verification]()
 
@@ -87,6 +87,6 @@ I will just describe their purpose here instead of repeating in each README.md.
 
 ## Requirements
 
-[Kiel uVsion 4]() - All the coding were done on this IDE. \
-[Stellaris/Tiva LaunchPad]() - Everything is meant to work on this launchpad (I used a EK-TM4C123G). \
-[Electronic Components]() - The physical circuit requires a few misc electrical components.
+[Kiel uVsion 4](https://www.keil.com/demo/eval/armv4.htm) - All the coding were done on this IDE. \
+[Stellaris/Tiva LaunchPad](http://www.ti.com/tool/ek-tm4c123gxl) - Everything is meant to work on a EK-TM4C123G launchpad. \
+[Electronic Components](http://edx-org-utaustinx.s3.amazonaws.com/UT601x/worldwide.html) - Some labs requires a set of extra electronic parts.
