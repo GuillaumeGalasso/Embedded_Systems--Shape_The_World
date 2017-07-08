@@ -1,37 +1,14 @@
 # EMBEDDED SYSTEMS - SHAPE THE WORLD
-A two-module embedded systems MOOC on edX from the University of Texas at Austin.
+A two-module embedded systems MOOC on edX from the University of Texas at Austin. \
+Date: July - September 2017
 
 This 16-week class is split into two 8-week classes : 
-- **[UT.6.10x Embedded Systems - Shape The World: Microcontroller Input/Output]()** includes Modules 1 to 10. \
-  [Certificate]() obtained with a grade of % (*not shown on the certificate but you can find a view [here]()*)
+- **UT.6.10x Embedded Systems - Shape The World: [Microcontroller Input/Output]()** includes Modules 1 to 10. \
+  [Certificate]() obtained with a grade of % (*not shown on the certificate but you can find a view [here]()*) \
   [Certifcate Verification]()
-- **UT.6.20x Embedded Systems - Shape The World: Multi-Threaded Interfacing** includes Modules 11 to 16. \
-  [Certificate]() obtained with a grade of % (*not shown on the certificate but you can find a view [here]()*)
+- **UT.6.20x Embedded Systems - Shape The World: [Multi-Threaded Interfacing]()** includes Modules 11 to 16. \
+  [Certificate]() obtained with a grade of % (*not shown on the certificate but you can find a view [here]()*) \
   [Certifcate Verification]()
-
-
-## Goals for UT.6.10x Embedded Systems - Shape The World: Microcontroller Input/Output :
-
-1. The understanding of embedded systems using modular design and abstraction
-2. Embedded C programming: considering both function and style
-3. The strategic use of memory
-4. Debugging and verification using a simulator and on the real microcontroller 
-5. How input/output using switches, LEDs, stepper motors, and serial ports
-6. The implementation of an I/O driver using busy-wait synchronization
-7. Understanding how local variables and parameters work
-8. Simple motors (e.g., open stepper motor control)
-
-
-## Goals UT.6.20x Embedded Systems - Shape The World: Multi-Threaded Interfacing :
-
-1. How input/output using switches, LEDs, DACs, ADCs, motors, and serial ports
-2. The implementation of an I/O driver using interrupt synchronization
-3. Multithreaded programming using interrupts
-4. Analog to digital conversion (ADC), periodic sampling 
-5. DC motors and closed-loop motor control
-6. Digital to analog conversion (DAC), used to make simple sounds, Design and implementation of elementary data structures
-7. Introduction to the Internet of Things using wifi
-
 
 ## Syllabus
 
@@ -97,3 +74,19 @@ Lab 15: Design and test a hand-held video game, which integrates all components 
 
 ### Module 16: Wireless Communication and the Internet of Things
 Lab 16: Connect a CC3100 booster pack to the LaunchPad and communicate with an access point
+
+## Common Files
+
+There are some file types which will appear in every lab assignment. \
+I will just describe their purpose here instead of repeating in each README.md. 
+
+`***.uvproj` `***.uvgui` `***.uvopt` - uVision files (open `***.uvproj` to get the full project) \
+`***.axf` `TExaS.h` `texas.o` - autograder files \
+`tm4c123gh6pm.h` - useful address definitions for launchpad \
+`startup.s` - assembly startup file
+
+## Requirements
+
+[Kiel uVsion 4]() - All the coding were done on this IDE. \
+[Stellaris/Tiva LaunchPad]() - Everything is meant to work on this launchpad (I used a EK-TM4C123G). \
+[Electronic Components]() - The physical circuit requires a few misc electrical components.
