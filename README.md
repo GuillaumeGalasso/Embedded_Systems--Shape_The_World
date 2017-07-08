@@ -2,8 +2,10 @@
 A two-module embedded systems MOOC from UTAustinX
 
 This 16-week class is split into two 8-week classes : 
-- UT.6.10x Embedded Systems - Shape The World: Microcontroller Input/Output includes Modules 1 to 10
-- UT.6.20x Embedded Systems - Shape The World: Multi-Threaded Interfacing includes Modules 11 to 16
+- **UT.6.10x Embedded Systems - Shape The World: Microcontroller Input/Output** includes Modules 1 to 10 \
+  [Certificate]() obtained with a grade of %
+- **UT.6.20x Embedded Systems - Shape The World: Multi-Threaded Interfacing** includes Modules 11 to 16 \
+  [Certificate]() obtained with a grade of %
 
 ## Goals for UT.6.10x Embedded Systems - Shape The World: Microcontroller Input/Output :
 
@@ -26,6 +28,7 @@ This 16-week class is split into two 8-week classes :
 5. DC motors and closed-loop motor control
 6. Digital to analog conversion (DAC), used to make simple sounds, Design and implementation of elementary data structures
 7. Introduction to the Internet of Things using wifi
+
 
 ## Syllabus
 
