@@ -73,7 +73,7 @@ Lab 14: Design and test a position measurement, with analog to digital conversio
 Lab 15: Design and test a hand-held video game, which integrates all components from previous labs
 
 #### Module 16: Wireless Communication and the Internet of Things
-Lab 16: Connect a CC3100 booster pack to the LaunchPad and communicate with an access point
+Lab 16: Connect a CC3100 booster pack to the LaunchPad and communicate with an access point via Wifi
 
 ## Common Files
 
