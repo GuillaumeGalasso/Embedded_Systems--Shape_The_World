@@ -2,7 +2,7 @@
 A two-module embedded systems MOOC on edX from the University of Texas at Austin. \
 Date: June - September 2017
 
-![#f03c15](This) 16-week class is split into two 8-week classes : 
+This 16-week class is split into two 8-week classes : 
 - **UT.6.10x Embedded Systems - Shape The World: [Microcontroller Input/Output](https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-10x)** includes Modules 1 to 10. \
   [Certificate]() obtained with a grade of % (*not shown on the certificate but you can find a view [here]()*) \
   [Certifcate Verification]()
