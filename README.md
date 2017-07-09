@@ -29,7 +29,7 @@ Lab 5: Write a C function and perform input/output on the serial port
 Lab 6: Write C software that inputs from a switch and toggles an LED output
 
 #### Module 7: Design and Development Process
-Lab 7: Write C functions that inputs from a switch and outputs to two LEDs, which is a simulated pacemaker
+Lab 7: Write C functions that inputs from a switch and outputs to two LEDs, which is a simulated pacemaker \
 Lab 7 bis : Write C functions that inputs from a switch and outputs a LED, which is a SOS morse code message
 
 #### Module 8: Interfacing Switches and LEDs
