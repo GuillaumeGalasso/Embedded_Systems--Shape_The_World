@@ -1,4 +1,4 @@
-<h1> ![](/utexas_logo.png?raw=true) EMBEDDED SYSTEMS - SHAPE THE WORLD</h1>
+# EMBEDDED SYSTEMS - SHAPE THE WORLD ![](/utexas_logo.png?raw=true) 
 A two-module embedded systems MOOC on edX from the University of Texas at Austin. \
 Date: June - September 2017
 
