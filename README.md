@@ -16,7 +16,7 @@ This 16-week class is split into two 8-week classes :
 
 #### Module 2: Fundamental concepts: numbers, computers, and the ARM Cortex M processor
 Example: Develop a system that toggles an LED on the LaunchPad \
-<span style="color:red">Lab 2:</span> Run existing project on LaunchPad with switch input and LED output
+<span style="color:red">some **Lab 2:** text</span> Run existing project on LaunchPad with switch input and LED output
 
 #### Module 3: Electronics: resistors, voltage, current and Ohm’s Law    
 
