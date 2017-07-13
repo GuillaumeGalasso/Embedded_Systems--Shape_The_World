@@ -1,22 +1,19 @@
 # EMBEDDED SYSTEMS - SHAPE THE WORLD
-A two-module embedded systems MOOC on edX from the University of Texas at Austin. \
-Date: June - September 2017
+A two-module embedded systems MOOC based on an ARM® Cortex®-M4F microcontroller from the University of Texas at Austin through [**edX**](https://courses.edx.org/). \
+Date: April - Jully 2017
 
 This 16-week class is split into two 8-week classes : 
 - **UT.6.10x Embedded Systems - Shape The World: [Microcontroller Input/Output](https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-10x)** includes Modules 1 to 10. \
-  [Certificate]() obtained with a grade of % (*not shown on the certificate but you can find a view [here]()*) \
-  [Certifcate Verification]()
+  [**Certificate**](https://courses.edx.org/certificates/6ec84679c9b648f7a051bb0573820f65) available.
 - **UT.6.20x Embedded Systems - Shape The World: [Multi-Threaded Interfacing](https://www.edx.org/course/embedded-systems-shape-world-multi-utaustinx-ut-6-20x)** includes Modules 11 to 16. \
-  [Certificate]() obtained with a grade of % (*not shown on the certificate but you can find a view [here]()*) \
-  [Certifcate Verification]()
+  [**Certificate**](https://courses.edx.org/certificates/a6c5861b0e4646a69080f2d2be621aba) available.
 
-You can find a **[syllabus](syllabus.md)** of these 2 certificates.
+You can find a **[syllabus](syllabus.md)** of these 2 courses.
 
 
 ## Common Files
 
 There are some file types which will appear in every lab assignment. \
-I will just describe their purpose here instead of repeating in each README.md. 
 
 `***.uvproj` `***.uvgui` `***.uvopt` - uVision files (open `***.uvproj` to get the full project) \
 `***.axf` `TExaS.h` `texas.o` - autograder files \
