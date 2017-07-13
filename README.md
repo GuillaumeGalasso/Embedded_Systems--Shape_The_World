@@ -14,12 +14,20 @@ You can find a **[syllabus](syllabus.md)** of these 2 courses.
 
 ## Common Files
 
-There are some file types which will appear in every lab assignment. \
+There are some file types which will appear in every lab assignment.
 
 `***.uvproj` `***.uvgui` `***.uvopt` - uVision files (open `***.uvproj` to get the full project) \
 `***.axf` `TExaS.h` `texas.o` - autograder files \
 `tm4c123gh6pm.h` - useful address definitions for launchpad \
 `startup.s` - assembly startup file
+
+Every lab is given as an existant project with a grading system TExaS that remotely permits to evaluate my work (and push the grade on edX MOOC). \
+As a consequence, for each lab assignment, I completed an existant project given by the teaching staff. \
+My contributions includes:
+- gloabal declarations (ports essentially) and/or declarations in header files. 
+- functions defintion if already declared by teachers.
+- functions implementation otherwise.
+In most of the cases, there are all these alternatives (except with the two first labs).
 
 ## Requirements
 
