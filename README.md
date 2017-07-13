@@ -22,11 +22,13 @@ There are some file types which will appear in every lab assignment.
 `startup.s` - assembly startup file
 
 Every lab is given as an existant project with a grading system TExaS that remotely permits to evaluate my work (and push the grade on edX MOOC). \
-As a consequence, for each lab assignment, I completed an existant project given by the teaching staff. \
+As a consequence, for each lab assignment, I completed an existant project given by the teaching staff.
+
 My contributions includes:
 - gloabal declarations (ports essentially) and/or declarations in header files. 
 - functions defintion if already declared by teachers.
 - functions implementation otherwise.
+
 In most of the cases, there are all these alternatives (except with the two first labs).
 
 ## Requirements
