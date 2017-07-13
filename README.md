@@ -19,7 +19,7 @@ My contributions includes:
 - functions defintion if already declared by teachers.
 - functions implementation otherwise.
 
-In most of the cases, there are all these alternatives (except with the two first labs).
+In most of the cases, there are all these alternatives (except with the two first introduction labs).
 
 ## Common Files
 
