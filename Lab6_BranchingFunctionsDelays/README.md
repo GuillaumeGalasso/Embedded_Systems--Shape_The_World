@@ -1,4 +1,6 @@
-#Lab6_BranchingFunctionsDelays subject
+# Lab6_BranchingFunctionsDelays subject
+
+Lab achieved with a score of 100% in simulation and real board tests.
 
 ## Purpose
 
