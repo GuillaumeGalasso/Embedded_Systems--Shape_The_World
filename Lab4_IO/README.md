@@ -21,6 +21,8 @@ The color of the LED is determined by the 3-bit value written to the outputs.
 
 *Specifications for Lab 4. SW1 is on PF4 and SW2 is on PF0*.
 
+Lab achieved with a score of 100% in simulation and real board tests.
+
 ## Fulfilled files
 
 `main.c` - main file
