@@ -1,5 +1,7 @@
 # Module 7 example   
 
+Lab achieved with a score of 100% in simulation and real board tests.
+
 ## Purpose
 Implement a SOS pattern
 
