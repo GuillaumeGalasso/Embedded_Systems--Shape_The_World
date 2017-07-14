@@ -17,7 +17,7 @@ Use external switch to flash the external LED at 5Hz or leave it off.
 
 ## Completed files
 
-`switchledinterface.c` - main file
+`SwitchLEDInterface.c` - main file
 
 ## Circuit diagram
 
