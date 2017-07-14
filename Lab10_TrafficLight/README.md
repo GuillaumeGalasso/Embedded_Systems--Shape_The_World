@@ -23,3 +23,7 @@ When the “don’t walk” condition is on steady, pedestrians should not enter
 ![Alt text](Lab10_circuit.png?raw=true "Traffic Light Intersection")
 
 *Traffic Light Intersection*.
+
+## Completed files
+
+`TableTrafficLight.c` - main file
