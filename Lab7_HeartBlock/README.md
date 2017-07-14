@@ -5,7 +5,8 @@ Lab achieved with a score of 100% in simulation and real board tests.
 ## Purpose
 
 In Lab7 you will walk through the design process to build a simple pacemaker. \
-The system will read from a switch, makes decisions, and outputs to an LED. \
+The system will read from a switch, makes decisions, and outputs to an LED. 
+
 You will learn and understand the steps required to initialize parallel ports. You will write subroutines that wait for the switch to be pressed, wait for the switch to be released, and create an output pulse of fixed duration.
 
 ## System Requirements
@@ -20,4 +21,4 @@ In this lab, a switch will be used to emulate the operation of the atrial sensor
 The Ready output is connected to PF3. The LED will be green when Ready is high. The Ready signal is used for debugging, and not part of an actual pacemaker. 
 In this lab, the VT output is connected to PF1, such that the LED will be red when VT is high. A 250 ms pulse will cause the ventricules to contract.
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Lab 7 circuit")
+![Alt text](Lab7_circuit.jpg?raw=true "Lab 7 circuit")
