@@ -17,3 +17,7 @@ The length and width are in meters and the returned area should be in square met
 Calculate the area only if both the length and width are between 3 and 20 inclusively. 
 
 Return a result of zero if the length is less than 3, the width is less than 3, the length is greater than 20 or the width is greater than 20. You are asked to write the function Calc_Area.
+
+## Completed files
+
+`main.c` - main file
