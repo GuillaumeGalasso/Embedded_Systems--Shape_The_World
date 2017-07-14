@@ -118,8 +118,6 @@ Lab 14: Design and test a position measurement, with analog to digital conversio
 15.5 Periodic Interrupt Using Timer 2A \
 15.6 Random Number Generator
 
-Lab 15: Design and test a hand-held video game, which integrates all components from previous labs
-
 #### Module 16: Wireless Communication and the Internet of Things
 16.1 The Internet in a nutshell \
 16.2 Internet of Things \
