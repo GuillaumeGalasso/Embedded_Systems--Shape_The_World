@@ -1,12 +1,12 @@
-#Lab2_HelloLaunchPad subject
+# Lab2_HelloLaunchPad subject
 
 ## Purpose
 
-When first learning a new programming language it is tradition to begin by running a program that outputs the message ìHello Worldî. \
+When first learning a new programming language it is tradition to begin by running a program that outputs the message ‚ÄúHello World‚Äù. \
 Later you will write your own programs, but in this lab you will run simply a program that we have written for you. \
 
 The input and output on the microcontroller comes from physical devices like switches and LEDs. \
-Consequently, our ìHello Worldî will ask you to push a switch and observe an LED. \
+Consequently, our ‚ÄúHello World‚Äù will ask you to push a switch and observe an LED. \
 The purpose of this lab is to work through the process of configuring the development system for the microcontroller board, and to learn how we will be grading labs in this course.
 
 ## System Requirements
