@@ -21,5 +21,5 @@ The color of the LED is determined by the 3-bit value written to the outputs.
 
 **Specifications for Lab 4. SW1 is on PF4 and SW2 is on PF0**.
 
-![Alt text](/relative/path/to/img.jpg?raw=true "Circuit diagram of the I/O using in Lab 4")
+![Alt text](/Lab4circuit.jpg?raw=true "Circuit diagram of the I/O using in Lab 4")
 *Circuit diagram of the I/O using in Lab 4*.
