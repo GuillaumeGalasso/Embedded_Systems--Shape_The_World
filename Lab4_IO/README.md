@@ -23,7 +23,7 @@ The color of the LED is determined by the 3-bit value written to the outputs.
 
 ## Fulfilled files
 
-'<main.c>' - main file
+`main.c` - main file
 
 ## Circuit diagram
 
