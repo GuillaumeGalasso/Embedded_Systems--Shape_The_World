@@ -7,7 +7,7 @@ We ask you to debug a simple program involving input from switches and output to
 
 ## System Requirements
 
-The system will have two inputs and three outputs. \
+The system will have two inputs and three outputs.
 - The inputs are switches called SW1 and SW2, which are connected port pin PF4 and PF0 respectively. \
 - Three outputs (PF3, PF2, PF1) are connected to one multi-color LED. 
 The color of the LED is determined by the 3-bit value written to the outputs. 
@@ -20,6 +20,10 @@ The color of the LED is determined by the 3-bit value written to the outputs.
 | Neither SW1 or SW2 is pressed | The LED should be off |
 
 *Specifications for Lab 4. SW1 is on PF4 and SW2 is on PF0*.
+
+## Fulfilled files
+
+'main.c' - main file
 
 ## Circuit diagram
 
