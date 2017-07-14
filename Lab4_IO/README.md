@@ -19,7 +19,9 @@ The color of the LED is determined by the 3-bit value written to the outputs.
 | Just SW2 switch is pressed | The LED should be green |
 | Neither SW1 or SW2 is pressed | The LED should be off |
 
-**Specifications for Lab 4. SW1 is on PF4 and SW2 is on PF0**.\
+**Specifications for Lab 4. SW1 is on PF4 and SW2 is on PF0**.
+
+# 
 
 ![Alt text](Lab4circuit.jpg?raw=true "Circuit diagram of the I/O using in Lab 4")
 *Circuit diagram of the I/O using in Lab 4*.
