@@ -1,4 +1,4 @@
-# Module 7 example   
+# MLab7bis_SOS subject
 
 Lab achieved with a score of 100% in simulation and real board tests.
 
