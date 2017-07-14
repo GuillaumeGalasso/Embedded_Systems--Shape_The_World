@@ -16,4 +16,6 @@ Your system will be graded on its ability to satisfy the following requirements.
 - Information collected in the Data array matches the I/O on PortF.
 - 50 data points are collected only on a change in input or a change in output. (i.e., no adjacent elements in the array are equal).
 
+## Completed files
 
+`main.c` - main file
