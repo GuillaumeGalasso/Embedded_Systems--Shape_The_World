@@ -21,6 +21,10 @@ In this lab, a switch will be used to emulate the operation of the atrial sensor
 The Ready output is connected to PF3. The LED will be green when Ready is high. The Ready signal is used for debugging, and not part of an actual pacemaker. 
 In this lab, the VT output is connected to PF1, such that the LED will be red when VT is high. A 250 ms pulse will cause the ventricules to contract.
 
+## Completed files
+
+`main.c` - main file
+
 ## Circuit diagram
 
 ![Alt text](Lab7_circuit.jpg?raw=true "Lab 7 circuit")
