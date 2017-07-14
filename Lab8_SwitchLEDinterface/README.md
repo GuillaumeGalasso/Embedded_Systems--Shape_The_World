@@ -15,6 +15,10 @@ Use external switch to flash the external LED at 5Hz or leave it off.
 4. If the switch is pressed (PE0 is 1), then toggle the LED once, else turn the LED on. 
 5. Steps 3 and 4 are repeated over and over.
 
+## Completed files
+
+`switchledinterface.c` - main file
+
 ## Circuit diagram
 
 ![Alt text](Lab8circuit.png?raw=true "Lab 7 circuit")
