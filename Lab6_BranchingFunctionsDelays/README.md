@@ -20,4 +20,4 @@ The system has one input switch and one output LED.
 
 ## Completed files
 
-`branchingfunctionsdelays.c` - main file
+`BranchingFunctionsDelays.c` - main file
