@@ -18,4 +18,5 @@ Use external switch to flash the external LED at 5Hz or leave it off.
 ## Circuit diagram
 
 ![Alt text](Lab8circuit.png?raw=true "Lab 7 circuit")
+
 *One possible Lab 8 interface connecting the input to PE0 and the output to PE1*.
