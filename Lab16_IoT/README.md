@@ -1,5 +1,7 @@
 # Lab16_Iot subject
 
+Lab achieved with a score of 100% in simulation and real board tests.
+
 ## Purpose
 
 This lab has these objectives: 
@@ -11,7 +13,7 @@ This lab has these objectives:
 
 ## System Requirements
 
-Together, the LaunchPad and CC3100 are a smart object capable of retreiving information from the internet and logging information onto a public server. \
+Together, the LaunchPad and CC3100 are a smart object capable of retreiving information from the internet and logging information onto a public server.
 
 You will upload information to the embsysmooc.appspot.com server. If you upload the data in the correct format, the server will respond with your grade and the 8-character ASCII string you can use to earn credit for completing this lab.
 
