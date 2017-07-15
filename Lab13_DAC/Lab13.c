@@ -7,6 +7,8 @@
 // Port B bits 3-0 have the 4-bit DAC
 // Port A bits 5-2 have 4 piano keys
 
+// Completed by Guillaume Galasso with a score of 100% (simulation and real board)
+
 #include "..//tm4c123gh6pm.h"
 #include "Sound.h"
 #include "Piano.h"
