@@ -1,5 +1,7 @@
 # Lab13_DAC subject
 
+Lab achieved with a score of 100% in simulation and real board tests.
+
 ## Purpose
 
 This lab has these major objectives: 
@@ -21,7 +23,7 @@ During the dynamic testing phase, you will connect the DAC output to the scope t
 The performance score of this lab is not based on loudness but sound quality. The quality of the music will depend on both hardware and software factors. \
 The precision of the DAC, the external noise, and the dynamic range of the speaker are some of the hardware factors. Software factors include the DAC output rate and the number of data points stored in the sound data.
 
-![Alt text](Lab13_circuit.png?raw=true)
+![Alt text](Lab13_circuit.png?raw=true) \
 *DAC allows the software to create music. In the simulator mode, the output voltage Vout is called DACOUT*.
 
 The second step is to design a low-level device driver for the DAC.
@@ -33,3 +35,11 @@ The wave should be generated whenever one key is pressed and held. These are the
 - Piano key 2: E generates a sinusoidal DACOUT at 659.255 Hz
 - Piano key 1: D generates a sinusoidal DACOUT at 587.330 Hz
 - Piano key 0: C generates a sinusoidal DACOUT at 523.251 Hz
+
+## Completed files
+
+`Dac.c` - main file
+`Sound.c` - main file
+`Piano.h` - main file
+`Piano.c` - main file
+`Lab13.c` - main file
