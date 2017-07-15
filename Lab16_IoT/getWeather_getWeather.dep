@@ -1,0 +1,311 @@
+Dependencies for Project 'getWeather', Target 'getWeather': (DO NOT MODIFY !)
+F (.\main.c)(0x596523C9)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\main.o --omf_browse .\rvmdk\main.crf --depend .\rvmdk\main.d)
+I (..\cc3100\simplelink\include\simplelink.h)(0x53A2928E)
+I (..\cc3100\platform\ek-tm4c123gxl\user.h)(0x53A2928E)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (..\cc3100\platform\ek-tm4c123gxl\board.h)(0x54F351F0)
+I (..\cc3100\platform\ek-tm4c123gxl\spi.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/nonos.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/objInclusion.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/datatypes.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\trace.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\fs.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\socket.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\netapp.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\device.h)(0x54F351F0)
+I (..\cc3100\simplelink\include\netcfg.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan_rx_filters.h)(0x53A2928E)
+I (..\inc/hw_memmap.h)(0x53885258)
+I (..\inc/hw_types.h)(0x53885258)
+I (..\driverlib/debug.h)(0x5388521A)
+I (..\driverlib/fpu.h)(0x5388521A)
+I (..\driverlib/gpio.h)(0x5388521A)
+I (..\driverlib/pin_map.h)(0x5388521A)
+I (..\driverlib/rom.h)(0x5388521A)
+I (..\driverlib/sysctl.h)(0x5388521A)
+I (..\driverlib/uart.h)(0x5388521A)
+I (..\utils/uartstdio.h)(0x5388526C)
+I (C:\Keil_v4\ARM\ARMCC\include\stdarg.h)(0x51C819B4)
+I (..\utils/cmdline.h)(0x5388526C)
+I (application_commands.h)(0x54902E88)
+I (LED.h)(0x54EB334C)
+I (Nokia5110.h)(0x53809E0C)
+F (..\cc3100\platform\ek-tm4c123gxl\board.c)(0x54DF9E42)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\board.o --omf_browse .\rvmdk\board.crf --depend .\rvmdk\board.d)
+I (..\cc3100\simplelink\include\simplelink.h)(0x53A2928E)
+I (..\cc3100\platform\ek-tm4c123gxl\user.h)(0x53A2928E)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (..\cc3100\platform\ek-tm4c123gxl\board.h)(0x54F351F0)
+I (..\cc3100\platform\ek-tm4c123gxl\spi.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/nonos.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/objInclusion.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/datatypes.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\trace.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\fs.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\socket.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\netapp.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\device.h)(0x54F351F0)
+I (..\cc3100\simplelink\include\netcfg.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan_rx_filters.h)(0x53A2928E)
+I (..\tm4c123gh6pm.h)(0x51D44682)
+I (..\inc/hw_memmap.h)(0x53885258)
+I (..\inc/hw_ssi.h)(0x53885258)
+I (..\inc/hw_types.h)(0x53885258)
+I (..\driverlib/ssi.h)(0x5388521A)
+I (..\driverlib/rom.h)(0x5388521A)
+I (..\driverlib/gpio.h)(0x5388521A)
+I (..\driverlib/sysctl.h)(0x5388521A)
+I (..\driverlib/fpu.h)(0x5388521A)
+I (..\driverlib/uart.h)(0x5388521A)
+F (.\Nokia5110.c)(0x554BAE88)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\nokia5110.o --omf_browse .\rvmdk\nokia5110.crf --depend .\rvmdk\nokia5110.d)
+I (Nokia5110.h)(0x53809E0C)
+I (../inc/tm4c123gh6pm.h)(0x5388525A)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+F (.\LED.c)(0x554BAE88)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\led.o --omf_browse .\rvmdk\led.crf --depend .\rvmdk\led.d)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (../inc/tm4c123gh6pm.h)(0x5388525A)
+F (..\cc3100\simplelink\source\device.c)(0x53A2928E)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\device.o --omf_browse .\rvmdk\device.crf --depend .\rvmdk\device.d)
+I (..\cc3100\simplelink\source\datatypes.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\simplelink.h)(0x53A2928E)
+I (..\cc3100\platform\ek-tm4c123gxl\user.h)(0x53A2928E)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (..\cc3100\platform\ek-tm4c123gxl\board.h)(0x54F351F0)
+I (..\cc3100\platform\ek-tm4c123gxl\spi.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/nonos.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/objInclusion.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\trace.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\fs.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\socket.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\netapp.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\device.h)(0x54F351F0)
+I (..\cc3100\simplelink\include\netcfg.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan_rx_filters.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\protocol.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\flowcont.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\driver.h)(0x53A2928E)
+F (..\cc3100\simplelink\source\driver.c)(0x53A2928E)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\driver.o --omf_browse .\rvmdk\driver.crf --depend .\rvmdk\driver.d)
+I (..\cc3100\simplelink\source\datatypes.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\simplelink.h)(0x53A2928E)
+I (..\cc3100\platform\ek-tm4c123gxl\user.h)(0x53A2928E)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (..\cc3100\platform\ek-tm4c123gxl\board.h)(0x54F351F0)
+I (..\cc3100\platform\ek-tm4c123gxl\spi.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/nonos.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/objInclusion.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\trace.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\fs.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\socket.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\netapp.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\device.h)(0x54F351F0)
+I (..\cc3100\simplelink\include\netcfg.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan_rx_filters.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\protocol.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\driver.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\flowcont.h)(0x53A2928E)
+F (..\cc3100\simplelink\source\flowcont.c)(0x53A2928E)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\flowcont.o --omf_browse .\rvmdk\flowcont.crf --depend .\rvmdk\flowcont.d)
+I (..\cc3100\simplelink\source\datatypes.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\simplelink.h)(0x53A2928E)
+I (..\cc3100\platform\ek-tm4c123gxl\user.h)(0x53A2928E)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (..\cc3100\platform\ek-tm4c123gxl\board.h)(0x54F351F0)
+I (..\cc3100\platform\ek-tm4c123gxl\spi.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/nonos.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/objInclusion.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\trace.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\fs.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\socket.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\netapp.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\device.h)(0x54F351F0)
+I (..\cc3100\simplelink\include\netcfg.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan_rx_filters.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\protocol.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\driver.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\flowcont.h)(0x53A2928E)
+F (..\cc3100\simplelink\source\fs.c)(0x53A2928E)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\fs.o --omf_browse .\rvmdk\fs.crf --depend .\rvmdk\fs.d)
+I (..\cc3100\simplelink\source\datatypes.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\simplelink.h)(0x53A2928E)
+I (..\cc3100\platform\ek-tm4c123gxl\user.h)(0x53A2928E)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (..\cc3100\platform\ek-tm4c123gxl\board.h)(0x54F351F0)
+I (..\cc3100\platform\ek-tm4c123gxl\spi.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/nonos.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/objInclusion.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\trace.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\fs.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\socket.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\netapp.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\device.h)(0x54F351F0)
+I (..\cc3100\simplelink\include\netcfg.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan_rx_filters.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\protocol.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\driver.h)(0x53A2928E)
+F (..\cc3100\simplelink\source\netapp.c)(0x53A2928E)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\netapp.o --omf_browse .\rvmdk\netapp.crf --depend .\rvmdk\netapp.d)
+I (..\cc3100\simplelink\source\datatypes.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\simplelink.h)(0x53A2928E)
+I (..\cc3100\platform\ek-tm4c123gxl\user.h)(0x53A2928E)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (..\cc3100\platform\ek-tm4c123gxl\board.h)(0x54F351F0)
+I (..\cc3100\platform\ek-tm4c123gxl\spi.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/nonos.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/objInclusion.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\trace.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\fs.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\socket.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\netapp.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\device.h)(0x54F351F0)
+I (..\cc3100\simplelink\include\netcfg.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan_rx_filters.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\protocol.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\driver.h)(0x53A2928E)
+F (..\cc3100\simplelink\source\netcfg.c)(0x53A2928E)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\netcfg.o --omf_browse .\rvmdk\netcfg.crf --depend .\rvmdk\netcfg.d)
+I (..\cc3100\simplelink\source\datatypes.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\simplelink.h)(0x53A2928E)
+I (..\cc3100\platform\ek-tm4c123gxl\user.h)(0x53A2928E)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (..\cc3100\platform\ek-tm4c123gxl\board.h)(0x54F351F0)
+I (..\cc3100\platform\ek-tm4c123gxl\spi.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/nonos.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/objInclusion.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\trace.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\fs.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\socket.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\netapp.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\device.h)(0x54F351F0)
+I (..\cc3100\simplelink\include\netcfg.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan_rx_filters.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\protocol.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\driver.h)(0x53A2928E)
+F (..\cc3100\simplelink\source\nonos.c)(0x53A2928E)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\nonos.o --omf_browse .\rvmdk\nonos.crf --depend .\rvmdk\nonos.d)
+I (..\cc3100\simplelink\source\datatypes.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\simplelink.h)(0x53A2928E)
+I (..\cc3100\platform\ek-tm4c123gxl\user.h)(0x53A2928E)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (..\cc3100\platform\ek-tm4c123gxl\board.h)(0x54F351F0)
+I (..\cc3100\platform\ek-tm4c123gxl\spi.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/nonos.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/objInclusion.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\trace.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\fs.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\socket.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\netapp.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\device.h)(0x54F351F0)
+I (..\cc3100\simplelink\include\netcfg.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan_rx_filters.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\protocol.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\driver.h)(0x53A2928E)
+F (..\cc3100\simplelink\source\socket.c)(0x53A2928E)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\socket.o --omf_browse .\rvmdk\socket.crf --depend .\rvmdk\socket.d)
+I (..\cc3100\simplelink\source\datatypes.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\simplelink.h)(0x53A2928E)
+I (..\cc3100\platform\ek-tm4c123gxl\user.h)(0x53A2928E)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (..\cc3100\platform\ek-tm4c123gxl\board.h)(0x54F351F0)
+I (..\cc3100\platform\ek-tm4c123gxl\spi.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/nonos.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/objInclusion.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\trace.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\fs.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\socket.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\netapp.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\device.h)(0x54F351F0)
+I (..\cc3100\simplelink\include\netcfg.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan_rx_filters.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\protocol.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\driver.h)(0x53A2928E)
+F (..\cc3100\simplelink\source\spawn.c)(0x53A2928E)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\spawn.o --omf_browse .\rvmdk\spawn.crf --depend .\rvmdk\spawn.d)
+I (..\cc3100\simplelink\source\datatypes.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\simplelink.h)(0x53A2928E)
+I (..\cc3100\platform\ek-tm4c123gxl\user.h)(0x53A2928E)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (..\cc3100\platform\ek-tm4c123gxl\board.h)(0x54F351F0)
+I (..\cc3100\platform\ek-tm4c123gxl\spi.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/nonos.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/objInclusion.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\trace.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\fs.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\socket.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\netapp.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\device.h)(0x54F351F0)
+I (..\cc3100\simplelink\include\netcfg.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan_rx_filters.h)(0x53A2928E)
+F (..\cc3100\platform\ek-tm4c123gxl\spi.c)(0x53A2928E)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\spi.o --omf_browse .\rvmdk\spi.crf --depend .\rvmdk\spi.d)
+I (..\cc3100\simplelink\include\simplelink.h)(0x53A2928E)
+I (..\cc3100\platform\ek-tm4c123gxl\user.h)(0x53A2928E)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (..\cc3100\platform\ek-tm4c123gxl\board.h)(0x54F351F0)
+I (..\cc3100\platform\ek-tm4c123gxl\spi.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/nonos.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/objInclusion.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/datatypes.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\trace.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\fs.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\socket.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\netapp.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\device.h)(0x54F351F0)
+I (..\cc3100\simplelink\include\netcfg.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan_rx_filters.h)(0x53A2928E)
+I (..\inc/hw_memmap.h)(0x53885258)
+I (..\inc/hw_ssi.h)(0x53885258)
+I (..\inc/hw_gpio.h)(0x53885258)
+I (..\inc/hw_types.h)(0x53885258)
+I (..\driverlib/pin_map.h)(0x5388521A)
+I (..\inc/hw_ints.h)(0x53885258)
+I (..\driverlib/ssi.h)(0x5388521A)
+I (..\driverlib/rom.h)(0x5388521A)
+I (..\driverlib/gpio.h)(0x5388521A)
+I (..\driverlib/sysctl.h)(0x5388521A)
+I (..\driverlib/interrupt.h)(0x5388521A)
+F (.\startup_rvmdk.S)(0x54902E88)(--cpu Cortex-M4.fp --pd "__EVAL SETA 1" -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-o .\rvmdk\startup_rvmdk.o --depend .\rvmdk\startup_rvmdk.d)
+F (..\cc3100\platform\ek-tm4c123gxl\uart.c)(0x53A2928E)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\uart.o --omf_browse .\rvmdk\uart.crf --depend .\rvmdk\uart.d)
+F (..\cc3100\simplelink\source\wlan.c)(0x53A2928E)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\wlan.o --omf_browse .\rvmdk\wlan.crf --depend .\rvmdk\wlan.d)
+I (..\cc3100\simplelink\source\datatypes.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\simplelink.h)(0x53A2928E)
+I (..\cc3100\platform\ek-tm4c123gxl\user.h)(0x53A2928E)
+I (C:\Keil_v4\ARM\ARMCC\include\string.h)(0x51C819B4)
+I (..\cc3100\platform\ek-tm4c123gxl\board.h)(0x54F351F0)
+I (..\cc3100\platform\ek-tm4c123gxl\spi.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/nonos.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\../source/objInclusion.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\trace.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\fs.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\socket.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\netapp.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\device.h)(0x54F351F0)
+I (..\cc3100\simplelink\include\netcfg.h)(0x53A2928E)
+I (..\cc3100\simplelink\include\wlan_rx_filters.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\protocol.h)(0x53A2928E)
+I (..\cc3100\simplelink\source\driver.h)(0x53A2928E)
+F (..\utils\uartstdio.c)(0x54D7E3D2)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\uartstdio.o --omf_browse .\rvmdk\uartstdio.crf --depend .\rvmdk\uartstdio.d)
+I (C:\Keil_v4\ARM\ARMCC\include\stdbool.h)(0x51C819B4)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (C:\Keil_v4\ARM\ARMCC\include\stdarg.h)(0x51C819B4)
+I (..\inc/hw_ints.h)(0x53885258)
+I (..\inc/hw_memmap.h)(0x53885258)
+I (..\inc/hw_types.h)(0x53885258)
+I (..\inc/hw_uart.h)(0x53885258)
+I (..\driverlib/debug.h)(0x5388521A)
+I (..\driverlib/interrupt.h)(0x5388521A)
+I (..\driverlib/rom.h)(0x5388521A)
+I (..\driverlib/rom_map.h)(0x5388521A)
+I (..\driverlib/sysctl.h)(0x5388521A)
+I (..\driverlib/uart.h)(0x5388521A)
+I (..\utils/uartstdio.h)(0x5388526C)
+F (..\utils\ustdlib.c)(0x5388526C)(-c --cpu Cortex-M4.fp -D__EVAL -D__MICROLIB -g -O2 --apcs=interwork --split_sections -I.. -I..\ -I..\..\..\.. -I..\cc3100 -I..\cc3100\platform\ek-tm4c123gxl -I..\cc3100\simplelink\include -I..\cc3100\simplelink\source --c99-I C:\Keil_v4\ARM\RV31\INC-I C:\Keil_v4\ARM\CMSIS\Include-I C:\Keil_v4\ARM\Inc\Luminary-Drvmdk -DPART_TM4C123GH6PM -D_POSIX_SOURCE -DUART_BUFFERED -DTARGET_IS_TM4C123_RB1-o .\rvmdk\ustdlib.o --omf_browse .\rvmdk\ustdlib.crf --depend .\rvmdk\ustdlib.d)
+I (C:\Keil_v4\ARM\ARMCC\include\stdint.h)(0x51C819B4)
+I (..\driverlib/debug.h)(0x5388521A)
+I (..\utils/ustdlib.h)(0x5388526C)
+I (C:\Keil_v4\ARM\ARMCC\include\stdarg.h)(0x51C819B4)
+I (C:\Keil_v4\ARM\ARMCC\include\time.h)(0x51C819B4)
+F (..\driverlib\rvmdk\driverlib.lib)(0x5388521A)()
+F (.\readme.txt)(0x55F5186A)()
