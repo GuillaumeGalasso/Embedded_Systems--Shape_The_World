@@ -7,7 +7,7 @@ Lab achieved with a score of 100% in simulation and real board tests.
 This lab has these major objectives: 
 1. The understanding and implementing of interrupt software 
 2. Interfacing an output pin to the speaker, so that the software can generate a quiet buzzing sound at 440 Hz 
-3. the study the accuracy of the pitch created with interrupts. Please read the entire lab before starting.
+3. The study the accuracy of the pitch created with interrupts. Please read the entire lab before starting
 
 ## System Requirements
 
