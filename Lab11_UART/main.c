@@ -3,6 +3,8 @@
 // Test main for Lab 11
 // January 15, 2016
 
+// Completed by Guillaume Galasso with a score of 100% (simulation and real board)
+
 // this connection occurs in the USB debugging cable
 // U0Rx (PA0) connected to serial port on PC
 // U0Tx (PA1) connected to serial port on PC
