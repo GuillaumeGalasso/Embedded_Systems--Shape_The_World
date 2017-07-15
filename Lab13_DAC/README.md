@@ -38,8 +38,8 @@ The wave should be generated whenever one key is pressed and held. These are the
 
 ## Completed files
 
-`Dac.c` - main file
-`Sound.c` - main file
-`Piano.h` - main file
-`Piano.c` - main file
+`Dac.c` - DAC functions file \
+`Sound.c` - sound generation functions file \
+`Piano.h` - output header file \
+`Piano.c` - output functions file \
 `Lab13.c` - main file
