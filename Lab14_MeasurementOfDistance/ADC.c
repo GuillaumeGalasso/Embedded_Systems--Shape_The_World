@@ -6,6 +6,8 @@
 // Daniel Valvano
 // January 15, 2016
 
+// Completed by Guillaume Galasso with a score of 100% (simulation and real board)
+
 /* This example accompanies the book
    "Embedded Systems: Introduction to ARM Cortex M Microcontrollers",
    ISBN: 978-1469998749, Jonathan Valvano, copyright (c) 2015
