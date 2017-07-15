@@ -1,4 +1,4 @@
-#Lab12_TuningFork subject
+# Lab12_TuningFork subject
 
 Lab achieved with a score of 100% in simulation and real board tests.
 
@@ -19,9 +19,9 @@ Any value between 680 O and 2 kO will be OK. Selecting a larger the resistor wil
 
 ## Completed files
 
-`main.c` - main file
+`TuningFork.c` - main file
 
 ## Circuit diagram
 
-![Alt text](Lab12_circuit.png?raw=true)
+![Alt text](Lab12_circuit.png?raw=true) \
 *Possible hardware interface for Lab 12*.
