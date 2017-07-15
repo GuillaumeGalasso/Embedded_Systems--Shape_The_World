@@ -19,5 +19,5 @@ The grader will activate the PLL so the system runs at 80 MHz, you must not modi
 
 ## Completed files
 
-`UART.c` - file for UART functions
+`UART.c` - file for UART functions \
 `main.c` - main file
