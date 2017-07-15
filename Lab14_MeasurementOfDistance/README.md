@@ -25,7 +25,7 @@ This ADC is a successive approximation device with a conversion time on the orde
 
 ## Completed files
 
-`ADC.c` - ADC functions file
+`ADC.c` - ADC functions file \
 `MeasurementOfDistance.c` - main file
 
 ## Circuit diagram
