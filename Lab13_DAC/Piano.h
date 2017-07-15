@@ -5,6 +5,8 @@
 // Daniel Valvano, Jonathan Valvano
 // December 29, 2014
 
+// Completed by Guillaume Galasso with a score of 100% (simulation and real board)
+
 #define DO_PERIOD  4790  // 80Mz / (523.251Hz * len (wave_table))
 #define RE_PERIOD  4256 
 #define MI_PERIOD  3792 
