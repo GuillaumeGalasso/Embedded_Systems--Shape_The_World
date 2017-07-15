@@ -5,6 +5,8 @@
 // Daniel Valvano
 // December 29, 2014
 
+// Completed by Guillaume Galasso with a score of 100% (simulation and real board)
+
 // Port A bits 5-2 have 4 piano keys
 
 #include "Piano.h"
