@@ -4,7 +4,7 @@
 2.1 Binary Number and Systems \
 2.2 Embedded Systems \
 2.3 Introduction to Computers \
-2.4 I/O Ports \ 
+2.4 I/O Ports \
 2.5 CPU Registers \
 2.6 Assembly Language \
 2.7 Address Space \
