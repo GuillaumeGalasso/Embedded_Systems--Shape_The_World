@@ -5,9 +5,9 @@ Date: April - Jully 2017
 
 This 16-week class is split into two 8-week classes : 
 - **UT.6.10x Embedded Systems - Shape The World: [Microcontroller Input/Output](https://www.edx.org/course/embedded-systems-shape-world-utaustinx-ut-6-10x)** includes Modules 1 to 10. \
-  [**Certificate**](https://courses.edx.org/certificates/6ec84679c9b648f7a051bb0573820f65) available.
+  [**Certificate**](Certificat_UTAustinX_UT.6.pdf) available.
 - **UT.6.20x Embedded Systems - Shape The World: [Multi-Threaded Interfacing](https://www.edx.org/course/embedded-systems-shape-world-multi-utaustinx-ut-6-20x)** includes Modules 11 to 16. \
-  [**Certificate**](https://courses.edx.org/certificates/a6c5861b0e4646a69080f2d2be621aba) available.
+  [**Certificate**](Certificat_UTAustinX_UT.6_2.pdf) available.
 
 You can find a **[syllabus](syllabus.md)** of these 2 courses.
 
